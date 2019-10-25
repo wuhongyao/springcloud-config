@@ -3,7 +3,7 @@
     active:
     - dev
 ---
-server
+server:
   port: 7001
 spring:
   profiles: dev
